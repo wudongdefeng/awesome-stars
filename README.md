@@ -18,7 +18,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [proxypool](https://github.com/zu1k/proxypool) | 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每15分钟更新 | zu1k | 224 |
+| 1 |  [proxypool](https://github.com/zu1k/proxypool) | 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表，每15分钟更新 | zu1k | 229 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -34,11 +34,11 @@
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持 | the1812 | 3555 |
+| 1 |  [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持 | the1812 | 3563 |
 | 2 |  [iqy_checkin](https://github.com/chengquanomg/iqy_checkin) | 爱奇艺每日签到和抽奖 | chengquanomg | 9 |
-| 3 |  [iptv](https://github.com/iptv-org/iptv) | Collection of 8000+ publicly available IPTV channels from all over the world | iptv-org | 19045 |
+| 3 |  [iptv](https://github.com/iptv-org/iptv) | Collection of 8000+ publicly available IPTV channels from all over the world | iptv-org | 19050 |
 | 4 |  [core](https://github.com/JAVClub/core) | 🔞 JAVClub - 让你的大姐姐不再走丢 | JAVClub | 2229 |
-| 5 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🍰 Everything is RSSible | DIYgod | 13507 |
+| 5 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🍰 Everything is RSSible | DIYgod | 13523 |
 | 6 |  [91porn-api](https://github.com/colikno/91porn-api) | 🌭💦 91porn爬虫在线无限制API接口（永久有效，口令每日更新） 及 在线web预览 | colikno | 255 |
 
 **[⬆ Back to Index](#-contents)**
@@ -46,13 +46,13 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [httpcatcher](https://github.com/pm936/httpcatcher) | httpcatcher json code | pm936 | 463 |
-| 2 |  [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | billy21 | 2528 |
+| 1 |  [httpcatcher](https://github.com/pm936/httpcatcher) | httpcatcher json code | pm936 | 464 |
+| 2 |  [Tvlist-awesome-m3u-m3u8](https://github.com/billy21/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | billy21 | 2530 |
 | 3 |  [1771245847.github.io](https://github.com/1771245847/1771245847.github.io) |  | 1771245847 | 17 |
 | 4 |  [IPTV](https://github.com/LiuYi0526/IPTV) | Live TV m3u | LiuYi0526 | 13 |
 | 5 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 45 |
-| 6 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 139179 |
-| 7 |  [GLaDOS](https://github.com/glados-network/GLaDOS) | status of GLaDOS | glados-network | 515 |
+| 6 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 139226 |
+| 7 |  [GLaDOS](https://github.com/glados-network/GLaDOS) | status of GLaDOS | glados-network | 517 |
 | 8 |  [book](https://github.com/github2017luo/book) |  | github2017luo | 34 |
 | 9 |  [Videos](https://github.com/ApksHolder/Videos) |  | ApksHolder | 1 |
 | 10 |  [m3ulist](https://github.com/snow922841/m3ulist) | 本人自用电影源 包含各种小姐姐，电影，电视等。但是由于直播源失效快，不保证一定可用。 | snow922841 | 51 |
@@ -67,14 +67,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [iptv](https://github.com/FanchangWang/iptv) | iptv 国内视频源 | FanchangWang | 29 |
-| 2 |  [anti-AD](https://github.com/privacy-protection-tools/anti-AD) | anti-AD是目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护。现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 | privacy-protection-tools | 1557 |
+| 2 |  [anti-AD](https://github.com/privacy-protection-tools/anti-AD) | anti-AD是目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护。现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 | privacy-protection-tools | 1558 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) | 微信公众号的爬虫 | wnma3mz | 681 |
+| 1 |  [wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) | 微信公众号的爬虫 | wnma3mz | 682 |
 | 2 |  [AutoUpdateConfiguration](https://github.com/lartpang/AutoUpdateConfiguration) | Some configuration files updated by GitHub Actions. | lartpang | 1 |
 | 3 |  [glados-checkin](https://github.com/hbstarjason/glados-checkin) |  | hbstarjason | 11 |
 | 4 |  [glados-checkin](https://github.com/xiaomustudent/glados-checkin) | 自动签到，自动续期，高速富强 | xiaomustudent | 18 |
@@ -85,7 +85,7 @@
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | Foreign language reading and translation assistant based on copy and translate. | CopyTranslator | 8884 |
+| 1 |  [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | Foreign language reading and translation assistant based on copy and translate. | CopyTranslator | 8887 |
 
 **[⬆ Back to Index](#-contents)**
 
