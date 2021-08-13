@@ -1,0 +1,10 @@
+#通过 workflow_dispatch 触发，cron任务部署在云函数
+name: test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  start:
+        print("hello")
+#以下省略
