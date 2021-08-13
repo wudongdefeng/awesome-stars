@@ -2,7 +2,8 @@
 name: test
 
 on:
-  workflow_dispatch:
+  repository_dispatch:
+    types: [run_tests]
 
 jobs:
   start:
@@ -15,5 +16,5 @@ jobs:
     - name: Initialization environment
       
       run: |
-        print('hello')
+        echo "I just ran all your tests!"
 #以下省略
