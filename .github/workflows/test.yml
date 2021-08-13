@@ -15,5 +15,5 @@ jobs:
     - name: Initialization environment
       
       run: |
-        print("hello")
+        print('hello')
 #以下省略
