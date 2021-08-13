@@ -2,19 +2,13 @@
 name: test
 
 on:
-  repository_dispatch:
-    types: [run_tests]
+  workflow_dispatch:
 
 jobs:
   start:
-    runs-on: ubuntu-20.04
-
+    name: Run your tests
+    runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@main
-
-    - name: Initialization environment
-      
-      run: |
-        echo "I just ran all your tests!"
-#以下省略
+      - run: |
+          echo "I just ran all your tests!"
+  
