@@ -32,7 +32,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 24549 |
+| 1 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 24561 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -47,7 +47,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [scripts_v2](https://github.com/ClassmateLin/scripts_v2) | jd scripts(golang) https://t.me/+fo3HSUe3nbRiNjY1 | ClassmateLin | 49 |
-| 2 |  [proxypool](https://github.com/zu1k/proxypool) | 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表 | zu1k | 2362 |
+| 2 |  [proxypool](https://github.com/zu1k/proxypool) | 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表 | zu1k | 2364 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -65,7 +65,7 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | LSPosed | 4069 |
+| 1 |  [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | LSPosed | 4081 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -73,19 +73,19 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [js_scripts](https://github.com/shaolin-kongfu/js_scripts) |  | shaolin-kongfu | 217 |
-| 2 |  [UserScript](https://github.com/XIU2/UserScript) | 🐵 自用的一些乱七八糟 油猴脚本~ | XIU2 | 3215 |
-| 3 |  [elecV2P](https://github.com/elecV2/elecV2P) | 一款基于 NodeJS，可通过 JS 修改网络请求，以及定时运行脚本或 SHELL 指令的网络工具。 | elecV2 | 1198 |
+| 2 |  [UserScript](https://github.com/XIU2/UserScript) | 🐵 自用的一些乱七八糟 油猴脚本~ | XIU2 | 3219 |
+| 3 |  [elecV2P](https://github.com/elecV2/elecV2P) | 一款基于 NodeJS，可通过 JS 修改网络请求，以及定时运行脚本或 SHELL 指令的网络工具。 | elecV2 | 1199 |
 | 4 |  [autojs-script](https://github.com/loong132/autojs-script) | autojs脚本程序,用于完成安卓设备上的重复性操作.包含脚本: 1.2021年京东618任务脚本 2.2021年京东燃动夏季活动脚本3.2021京东双十一热爱环游记 | loong132 | 335 |
 | 5 |  [jd_tb_auto](https://github.com/czj2369/jd_tb_auto) | 基于AutoJs编写的618\|\|双十一\|\|淘宝\|\|京东\|\|赚喵币\|\|赚汪汪币\|\|炸年兽任务自动完成脚本 | czj2369 | 1166 |
 | 6 |  [BaiduWenkuDoc](https://github.com/p475453633/BaiduWenkuDoc) | Script for  text content of baidu wenku doc | p475453633 | 2 |
 | 7 |  [jscool](https://github.com/demo2099/jscool) |  | demo2099 | 120 |
 | 8 |  [GeekBot](https://github.com/wudongdefeng/GeekBot) | 企业微信机器人主动推送获取信息脚本 \| 每日自动推送天气、毒鸡汤、ONE图文、v2ex帖子 &amp; more.. | wudongdefeng | 1 |
-| 9 |  [scripts](https://github.com/chavyleung/scripts) | BoxJs | chavyleung | 3326 |
+| 9 |  [scripts](https://github.com/chavyleung/scripts) | BoxJs | chavyleung | 3328 |
 | 10 |  [Quantumult-X](https://github.com/Semporia/Quantumult-X) | Bubble icon、Filter、Rewrite、Scripts ;  🔨：Scripts and icons are suitable for Quantumult X,Surge, Loon | Semporia | 111 |
-| 11 |  [iqy_checkin](https://github.com/chengquanomg/iqy_checkin) | 爱奇艺每日签到和抽奖 | chengquanomg | 93 |
-| 12 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 47857 |
-| 13 |  [core](https://github.com/JAVClub/core) | 🔞 JAVClub - 让你的大姐姐不再走丢 | JAVClub | 2729 |
-| 14 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🍰 Everything is RSSible | DIYgod | 18978 |
+| 11 |  [iqy_checkin](https://github.com/chengquanomg/iqy_checkin) | 爱奇艺每日签到和抽奖 | chengquanomg | 92 |
+| 12 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 47897 |
+| 13 |  [core](https://github.com/JAVClub/core) | 🔞 JAVClub - 让你的大姐姐不再走丢 | JAVClub | 2730 |
+| 14 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🍰 Everything is RSSible | DIYgod | 18983 |
 | 15 |  [91porn-api](https://github.com/colikno/91porn-api) | 🌭💦 91porn爬虫在线无限制API接口（永久有效，口令每日更新） 及 在线web预览 | colikno | 336 |
 
 **[⬆ Back to Index](#-contents)**
@@ -93,28 +93,28 @@
 ## Kotlin
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [tingshu](https://github.com/eprendre/tingshu) | 一款可在线播放多个免费听书站点的安卓app | eprendre | 540 |
+| 1 |  [tingshu](https://github.com/eprendre/tingshu) | 一款可在线播放多个免费听书站点的安卓app | eprendre | 541 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [freed](https://github.com/YuanHsing/freed) |  | YuanHsing | 232 |
+| 1 |  [freed](https://github.com/YuanHsing/freed) |  | YuanHsing | 234 |
 | 2 |  [http-iptvcrlatinacr.m3u](https://github.com/iptvcrugalde/http-iptvcrlatinacr.m3u) |  | iptvcrugalde | 17 |
-| 3 |  [Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) | 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站 | selierlin | 6225 |
+| 3 |  [Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) | 🃏 Free SS/SSR/V2ray 免费分享节点账号信息网站 | selierlin | 6231 |
 | 4 |  [iptv-links](https://github.com/telase/iptv-links) | IPTV Links | telase | 78 |
 | 5 |  [ssr_sign](https://github.com/2899/ssr_sign) | 节点白嫖版，自动签到。 | 2899 | 10 |
-| 6 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 9836 |
+| 6 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 9843 |
 | 7 |  [1771245847.github.io](https://github.com/1771245847/1771245847.github.io) | 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人健康快乐！ | 1771245847 | 23 |
-| 8 |  [IPTV](https://github.com/LiuYi0526/IPTV) | Live TV m3u | LiuYi0526 | 385 |
+| 8 |  [IPTV](https://github.com/LiuYi0526/IPTV) | Live TV m3u | LiuYi0526 | 386 |
 | 9 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 63 |
-| 10 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 193904 |
+| 10 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 194013 |
 | 11 |  [GLaDOS](https://github.com/glados-network/GLaDOS) | status of GLaDOS | glados-network | 1196 |
 | 12 |  [book](https://github.com/github2017luo/book) |  | github2017luo | 42 |
 | 13 |  [Videos](https://github.com/ApksHolder/Videos) |  | ApksHolder | 1 |
 | 14 |  [m3ulist](https://github.com/snow922841/m3ulist) | 本人自用电影源 包含各种小姐姐，电影，电视等。但是由于直播源失效快，不保证一定可用。 | snow922841 | 861 |
-| 15 |  [MyIPTV](https://github.com/SPX372928/MyIPTV) | 标准协议移动直播源 | SPX372928 | 1357 |
+| 15 |  [MyIPTV](https://github.com/SPX372928/MyIPTV) | 标准协议移动直播源 | SPX372928 | 1359 |
 | 16 |  [mandyims.github.io](https://github.com/mandyIMS/mandyims.github.io) |  | mandyIMS | 2 |
 | 17 |  [anti-AD](https://github.com/privacy-protection-tools/anti-AD) | 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 | privacy-protection-tools | 4183 |
 
@@ -125,7 +125,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [xxoo_share_pool](https://github.com/q398044828/xxoo_share_pool) | xxoo助力池！！！ | q398044828 | 44 |
 | 2 |  [Api](https://github.com/TelegramBot/Api) | Native PHP Wrapper for Telegram BOT API | TelegramBot | 837 |
-| 3 |  [avbook](https://github.com/guyueyingmu/avbook) | AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database | guyueyingmu | 8229 |
+| 3 |  [avbook](https://github.com/guyueyingmu/avbook) | AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database | guyueyingmu | 8233 |
 | 4 |  [iptv](https://github.com/FanchangWang/iptv) | iptv 国内视频源 | FanchangWang | 130 |
 
 **[⬆ Back to Index](#-contents)**
@@ -141,21 +141,21 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Qywx-Push](https://github.com/notfound945/Qywx-Push) | 企业微信推送每日热搜 | notfound945 | 2 |
-| 2 |  [JD_Diy](https://github.com/chiupam/JD_Diy) | 某东小玩具！ | chiupam | 55 |
-| 3 |  [garss](https://github.com/zhaoolee/garss) | Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页 | zhaoolee | 540 |
+| 2 |  [JD_Diy](https://github.com/chiupam/JD_Diy) | 某东小玩具！ | chiupam | 57 |
+| 3 |  [garss](https://github.com/zhaoolee/garss) | Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页 | zhaoolee | 541 |
 | 4 |  [V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider) | ​:rocket: 采集\|免费\|优质\|的订阅链接；科学上网，从娃娃抓起！ | QIN2DIM | 821 |
-| 5 |  [doc_downloader](https://github.com/rty813/doc_downloader) | 下载豆丁、淘豆、道客巴巴、原创力、金锄头文档，并自动转换为PDF | rty813 | 329 |
-| 6 |  [BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) | 同步百度云网盘到阿里云 | yaronzz | 374 |
+| 5 |  [doc_downloader](https://github.com/rty813/doc_downloader) | 下载豆丁、淘豆、道客巴巴、原创力、金锄头文档，并自动转换为PDF | rty813 | 331 |
+| 6 |  [BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) | 同步百度云网盘到阿里云 | yaronzz | 376 |
 | 7 |  [tv345](https://github.com/wudongdefeng/tv345) |  | wudongdefeng | 1 |
 | 8 |  [DouYinSpider](https://github.com/panoslin/DouYinSpider) | Fiddler + Appium + Mitmproxy + Android Emulator | panoslin | 55 |
 | 9 |  [BiliExp](https://github.com/happy888888/BiliExp) | B站(bilibili 哔哩哔哩)助手:1.每日投币观看分享视频(快速升6级),签到(直播+漫画), 动态抽奖,风纪投票,直播挂机(小心心),天选时刻等日常操作(云函数+Actions+docker)(多账户)。2.漫画视频番剧音乐下载器(CLI)。3.up主视频专栏音乐动态投稿的python实现 | happy888888 | 1136 |
 | 10 |  [Serverless-Python](https://github.com/LiteraturePro/Serverless-Python) | 收集各类型的云函数Python版的代码 | LiteraturePro | 18 |
 | 11 |  [ssAutoCheckin](https://github.com/ifloppy/ssAutoCheckin) | 自动签到使用ssPanel搭建的机场程序，支持多账户(开发中) | ifloppy | 18 |
-| 12 |  [wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) | 微信公众号文章的爬虫 | wnma3mz | 1479 |
+| 12 |  [wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) | 微信公众号文章的爬虫 | wnma3mz | 1481 |
 | 13 |  [AutoUpdateConfiguration](https://github.com/lartpang/AutoUpdateConfiguration) | Some configuration files updated by GitHub Actions. | lartpang | 2 |
 | 14 |  [glados-checkin](https://github.com/hbstarjason/glados-checkin) |  | hbstarjason | 20 |
 | 15 |  [glados-checkin](https://github.com/xiaomustudent/glados-checkin) | 自动签到，自动续期，高速富强 | xiaomustudent | 89 |
-| 16 |  [fanhaodaquan](https://github.com/imfht/fanhaodaquan) | 番号大全。 | imfht | 3180 |
+| 16 |  [fanhaodaquan](https://github.com/imfht/fanhaodaquan) | 番号大全。 | imfht | 3182 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -170,9 +170,9 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [hikerview-player](https://github.com/Lingyan000/hikerview-player) | 🎉 A simple player built by vue-cli-electron-builder to connect the hikerview | Lingyan000 | 67 |
-| 2 |  [ext-saladict](https://github.com/crimx/ext-saladict) | 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching. | crimx | 8821 |
-| 3 |  [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | the1812 | 11762 |
-| 4 |  [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | Foreign language reading and translation assistant based on copy and translate. | CopyTranslator | 13298 |
+| 2 |  [ext-saladict](https://github.com/crimx/ext-saladict) | 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching. | crimx | 8823 |
+| 3 |  [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | the1812 | 11767 |
+| 4 |  [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | Foreign language reading and translation assistant based on copy and translate. | CopyTranslator | 13299 |
 
 **[⬆ Back to Index](#-contents)**
 
