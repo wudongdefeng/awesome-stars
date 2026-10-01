@@ -22,9 +22,9 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) | iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能 | qjfoidnh | 5684 |
-| 2 |  [v2rayA](https://github.com/v2rayA/v2rayA) | A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS. | v2rayA | 15652 |
-| 3 |  [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform | SagerNet | 38482 |
+| 1 |  [BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) | iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能 | qjfoidnh | 5686 |
+| 2 |  [v2rayA](https://github.com/v2rayA/v2rayA) | A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS. | v2rayA | 15655 |
+| 3 |  [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform | SagerNet | 38495 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -47,8 +47,8 @@
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | Stirling-Tools | 93361 |
-| 2 |  [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | LSPosed | 24877 |
+| 1 |  [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | Stirling-Tools | 93396 |
+| 2 |  [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | LSPosed | 24880 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -56,13 +56,13 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [migu_video](https://github.com/develop202/migu_video) |  | develop202 | 1331 |
-| 2 |  [cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension | xifangczy | 22111 |
-| 3 |  [Jsjiemi](https://github.com/NXY666/Jsjiemi) | 基于正则匹配的 JavaScript 解密工具。请务必遵守开源协议，不得用于非法或商业用途。 | NXY666 | 715 |
+| 2 |  [cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension | xifangczy | 22114 |
+| 3 |  [Jsjiemi](https://github.com/NXY666/Jsjiemi) | 基于正则匹配的 JavaScript 解密工具。请务必遵守开源协议，不得用于非法或商业用途。 | NXY666 | 716 |
 | 4 |  [melody](https://github.com/foamzou/melody) | 我的音乐精灵 | foamzou | 3739 |
 | 5 |  [js_scripts](https://github.com/shaolin-kongfu/js_scripts) |  | shaolin-kongfu | 202 |
-| 6 |  [UserScript](https://github.com/XIU2/UserScript) | 🐵 自用的一些乱七八糟 油猴脚本~ | XIU2 | 10066 |
+| 6 |  [UserScript](https://github.com/XIU2/UserScript) | 🐵 自用的一些乱七八糟 油猴脚本~ | XIU2 | 10068 |
 | 7 |  [BaiduWenkuDoc](https://github.com/p475453633/BaiduWenkuDoc) | Script for  text content of baidu wenku doc | p475453633 | 2 |
-| 8 |  [scripts](https://github.com/chavyleung/scripts) | BoxJs | chavyleung | 5533 |
+| 8 |  [scripts](https://github.com/chavyleung/scripts) | BoxJs | chavyleung | 5534 |
 | 9 |  [Quantumult-X](https://github.com/Semporia/Quantumult-X) | Bubble icon、Filter、Rewrite、Scripts ;  🔨：Scripts and icons are suitable for Quantumult X,Surge, Loon | Semporia | 318 |
 | 10 |  [core](https://github.com/JAVClub/core) | 🔞 JAVClub - 让你的大姐姐不再走丢 | JAVClub | 2877 |
 | 11 |  [91porn-api](https://github.com/colikno/91porn-api) | 🌭💦 91porn爬虫在线无限制API接口（永久有效，口令每日更新） 及 在线web预览 | colikno | 348 |
@@ -72,8 +72,8 @@
 ## Kotlin
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [web-to-app](https://github.com/shiaho777/web-to-app) | The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone | shiaho777 | 6634 |
-| 2 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 63025 |
+| 1 |  [web-to-app](https://github.com/shiaho777/web-to-app) | The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone | shiaho777 | 6647 |
+| 2 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 63026 |
 | 3 |  [tingshu](https://github.com/eprendre/tingshu) | 一款可在线播放多个免费听书站点的安卓app | eprendre | 1228 |
 
 **[⬆ Back to Index](#-contents)**
@@ -82,13 +82,13 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) | ChatTTS资源大全，免费体验地址，音色库等 | panyanyany | 1239 |
-| 2 |  [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！ | chatanywhere | 43437 |
-| 3 |  [HowToCook](https://github.com/Anduin2017/HowToCook) | Programmer&#39;s guide about how to cook at home. | Anduin2017 | 102383 |
+| 2 |  [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！ | chatanywhere | 43457 |
+| 3 |  [HowToCook](https://github.com/Anduin2017/HowToCook) | Programmer&#39;s guide about how to cook at home. | Anduin2017 | 102385 |
 | 4 |  [freed](https://github.com/YuanHsing/freed) |  | YuanHsing | 1646 |
-| 5 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 30073 |
+| 5 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 30075 |
 | 6 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 93 |
-| 7 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | sindresorhus | 513033 |
-| 8 |  [GLaDOS](https://github.com/glados-network/GLaDOS) | status of GLaDOS | glados-network | 2755 |
+| 7 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | sindresorhus | 513244 |
+| 8 |  [GLaDOS](https://github.com/glados-network/GLaDOS) | status of GLaDOS | glados-network | 2756 |
 | 9 |  [Videos](https://github.com/ApksHolder/Videos) |  | ApksHolder | 1 |
 | 10 |  [MyIPTV](https://github.com/SPX372928/MyIPTV) | 标准协议移动直播源 | SPX372928 | 2695 |
 | 11 |  [anti-AD](https://github.com/privacy-protection-tools/anti-AD) | 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 | privacy-protection-tools | 10809 |
@@ -106,7 +106,7 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | Shubhamsaboo | 140454 |
+| 1 |  [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | Shubhamsaboo | 140510 |
 | 2 |  [RsshubList](https://github.com/zhjnerv/RsshubList) |  | zhjnerv | 6 |
 | 3 |  [get_subscribe](https://github.com/ermaozi/get_subscribe) | ✈️ 白嫖免费机场  / 免费VPN -&amp;gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 \| 科学上网 \| 翻墙 | ermaozi | 9326 |
 | 4 |  [GetFund](https://github.com/viphsj/GetFund) | 读取基金数据 | viphsj | 2 |
@@ -136,10 +136,10 @@
 | 2 |  [laf](https://github.com/labring/laf) | Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease. | labring | 7556 |
 | 3 |  [garss](https://github.com/zhaoolee/garss) | Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页 | zhaoolee | 1431 |
 | 4 |  [ext-saladict](https://github.com/crimx/ext-saladict) | 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching. | crimx | 13351 |
-| 5 |  [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | the1812 | 30636 |
-| 6 |  [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | 🔠Foreign language reading and translation assistant based on copy and translate. | CopyTranslator | 18096 |
-| 7 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 140002 |
-| 8 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 46383 |
+| 5 |  [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | the1812 | 30640 |
+| 6 |  [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | 🔠Foreign language reading and translation assistant based on copy and translate. | CopyTranslator | 18097 |
+| 7 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 140041 |
+| 8 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 46393 |
 
 **[⬆ Back to Index](#-contents)**
 
