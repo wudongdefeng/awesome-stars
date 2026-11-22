@@ -22,16 +22,16 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) | iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能 | qjfoidnh | 5999 |
-| 2 |  [v2rayA](https://github.com/v2rayA/v2rayA) | A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS. | v2rayA | 15884 |
-| 3 |  [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform | SagerNet | 40199 |
+| 1 |  [BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) | iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能 | qjfoidnh | 6002 |
+| 2 |  [v2rayA](https://github.com/v2rayA/v2rayA) | A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS. | v2rayA | 15888 |
+| 3 |  [sing-box](https://github.com/SagerNet/sing-box) | The universal proxy platform | SagerNet | 40206 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Go Template
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) | WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具 | WeChatPadPro | 2684 |
+| 1 |  [WeChatPadPro](https://github.com/WeChatPadPro/WeChatPadPro) | WeChatPadPro 是基于 WeChat Pad 的高级微信管理工具 | WeChatPadPro | 2683 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -40,14 +40,14 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [xbb](https://github.com/liu673cn/xbb) | biubiu播放器 | liu673cn | 816 |
 | 2 |  [iptv-tools](https://github.com/jjm2473/iptv-tools) | iptv | jjm2473 | 1 |
-| 3 |  [iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) | IPTV 国内+国外 电视台直播源m3u文件, 收集&amp;汇总&amp;本地源脚本 | EvilCult | 2896 |
+| 3 |  [iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker) | IPTV 国内+国外 电视台直播源m3u文件, 收集&amp;汇总&amp;本地源脚本 | EvilCult | 2897 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Java
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | LSPosed | 25600 |
+| 1 |  [LSPosed](https://github.com/LSPosed/LSPosed) | LSPosed Framework | LSPosed | 25604 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -56,7 +56,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [free-domains](https://github.com/harys722/free-domains) | A big list of free subdomains for personal websites, portfolios, open-source projects, and other online projects. | harys722 | 200 |
 | 2 |  [migu_video](https://github.com/develop202/migu_video) |  | develop202 | 1355 |
-| 3 |  [cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension | xifangczy | 23109 |
+| 3 |  [cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension | xifangczy | 23121 |
 | 4 |  [Jsjiemi](https://github.com/NXY666/Jsjiemi) | 基于正则匹配的 JavaScript 解密工具。请务必遵守开源协议，不得用于非法或商业用途。 | NXY666 | 715 |
 | 5 |  [melody](https://github.com/foamzou/melody) | 我的音乐精灵 | foamzou | 3732 |
 | 6 |  [js_scripts](https://github.com/shaolin-kongfu/js_scripts) |  | shaolin-kongfu | 201 |
@@ -72,8 +72,8 @@
 ## Kotlin
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [web-to-app](https://github.com/shiaho777/web-to-app) | The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone | shiaho777 | 7321 |
-| 2 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 64201 |
+| 1 |  [web-to-app](https://github.com/shiaho777/web-to-app) | The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone | shiaho777 | 7323 |
+| 2 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 64213 |
 | 3 |  [tingshu](https://github.com/eprendre/tingshu) | 一款可在线播放多个免费听书站点的安卓app | eprendre | 1254 |
 
 **[⬆ Back to Index](#-contents)**
@@ -81,14 +81,14 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [CFNext](https://github.com/PAICNI/CFNext) | CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板 | PAICNI | 3077 |
+| 1 |  [CFNext](https://github.com/PAICNI/CFNext) | CFNext —— 部署在 Cloudflare Workers / Pages 的多功能代理订阅管理面板 | PAICNI | 3079 |
 | 2 |  [Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) | ChatTTS资源大全，免费体验地址，音色库等 | panyanyany | 1232 |
-| 3 |  [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！ | chatanywhere | 46524 |
-| 4 |  [HowToCook](https://github.com/Anduin2017/HowToCook) | Programmer&#39;s guide about how to cook at home. | Anduin2017 | 104185 |
-| 5 |  [freed](https://github.com/YuanHsing/freed) |  | YuanHsing | 1643 |
-| 6 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 30421 |
+| 3 |  [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！ | chatanywhere | 46535 |
+| 4 |  [HowToCook](https://github.com/Anduin2017/HowToCook) | Programmer&#39;s guide about how to cook at home. | Anduin2017 | 104194 |
+| 5 |  [freed](https://github.com/YuanHsing/freed) |  | YuanHsing | 1642 |
+| 6 |  [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) | 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵 | imDazui | 30424 |
 | 7 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 93 |
-| 8 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | sindresorhus | 540837 |
+| 8 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones] | sindresorhus | 541070 |
 | 9 |  [GLaDOS](https://github.com/glados-network/GLaDOS) | status of GLaDOS | glados-network | 2791 |
 | 10 |  [Videos](https://github.com/ApksHolder/Videos) |  | ApksHolder | 1 |
 | 11 |  [MyIPTV](https://github.com/SPX372928/MyIPTV) | 标准协议移动直播源 | SPX372928 | 2705 |
@@ -100,18 +100,18 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [xxoo_share_pool](https://github.com/q398044828/xxoo_share_pool) | xxoo助力池！！！ | q398044828 | 38 |
-| 2 |  [avbook](https://github.com/guyueyingmu/avbook) | AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database | guyueyingmu | 10128 |
+| 2 |  [avbook](https://github.com/guyueyingmu/avbook) | AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database | guyueyingmu | 10131 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | Shubhamsaboo | 145372 |
+| 1 |  [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | Shubhamsaboo | 145422 |
 | 2 |  [RsshubList](https://github.com/zhjnerv/RsshubList) |  | zhjnerv | 6 |
-| 3 |  [get_subscribe](https://github.com/ermaozi/get_subscribe) | ✈️ 白嫖免费机场  / 免费VPN -&amp;gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 \| 科学上网 \| 翻墙 | ermaozi | 9516 |
+| 3 |  [get_subscribe](https://github.com/ermaozi/get_subscribe) | ✈️ 白嫖免费机场  / 免费VPN -&amp;gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 \| 科学上网 \| 翻墙 | ermaozi | 9518 |
 | 4 |  [GetFund](https://github.com/viphsj/GetFund) | 读取基金数据 | viphsj | 2 |
-| 5 |  [aggregator](https://github.com/wzdnzd/aggregator) | One-stop Proxies Crawling and Aggregation Platform | wzdnzd | 7579 |
+| 5 |  [aggregator](https://github.com/wzdnzd/aggregator) | One-stop Proxies Crawling and Aggregation Platform | wzdnzd | 7581 |
 | 6 |  [misaka](https://github.com/limoruirui/misaka) | 开源的一些乱七八糟的东西 | limoruirui | 468 |
 | 7 |  [mdserver-web](https://github.com/midoks/mdserver-web) | Simple Linux Panel | midoks | 4516 |
 | 8 |  [Qywx-Push](https://github.com/notfound945/Qywx-Push) | 企业微信推送每日热搜 | notfound945 | 4 |
@@ -135,14 +135,14 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [teahouse](https://github.com/skyjt/teahouse) | 茶话间（teahouse）：纯内网、基于 IP 的局域网即时通讯与文件传输工具 | skyjt | 273 |
 | 2 |  [OrionTV](https://github.com/orion-lib/OrionTV) | 一个基于 React Native TVOS 和 Expo 构建的播放器，旨在提供流畅的视频观看体验。 | orion-lib | 5702 |
-| 3 |  [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | Stirling-Tools | 97207 |
+| 3 |  [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | Stirling-Tools | 97244 |
 | 4 |  [laf](https://github.com/labring/laf) | Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring innovative ideas to life with ease. | labring | 7540 |
 | 5 |  [garss](https://github.com/zhaoolee/garss) | Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页 | zhaoolee | 1442 |
-| 6 |  [ext-saladict](https://github.com/crimx/ext-saladict) | 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching. | crimx | 13442 |
-| 7 |  [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | the1812 | 31184 |
-| 8 |  [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | 🔠Foreign language reading and translation assistant based on copy and translate. | CopyTranslator | 18154 |
-| 9 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 144489 |
-| 10 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 47155 |
+| 6 |  [ext-saladict](https://github.com/crimx/ext-saladict) | 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching. | crimx | 13443 |
+| 7 |  [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | the1812 | 31186 |
+| 8 |  [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) | 🔠Foreign language reading and translation assistant based on copy and translate. | CopyTranslator | 18153 |
+| 9 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 144527 |
+| 10 |  [RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | DIYgod | 47161 |
 
 **[⬆ Back to Index](#-contents)**
 
